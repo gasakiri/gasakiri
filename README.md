@@ -71,7 +71,7 @@ I'm a Computer Engineering student at the **Federal University of Technology –
 
 Olá! Sou o **Gabriel Augusto Morisaki Rita** (`gasakiri`), estudante de **Engenharia de Computação** na **UTFPR** (campus Cornélio Procópio). Trabalho com **desenvolvimento web**, **fundamentos de engenharia de software** e **extensão educacional**.
 
-Sou voluntário no **Grupo ELLP**, onde ensino lógica, programação e robótica para estudantes de escolas públicas por meio de oficinas práticas. Tenho certificação **MATLAB** (MathWorks) e concluí o **CS50P** (Harvard).
+Fui voluntário no **Grupo ELLP**, projeto de ensino de lógica, programação e robótica para estudantes de escolas públicas por meio de oficinas práticas. Tenho certificação **MATLAB** (MathWorks) e concluí o **CS50P** (Harvard).
 
 Veja meu portfólio em [gasakiri.github.io](https://gasakiri.github.io/) e todos os meus links em [linktr.ee/gasakiri](https://linktr.ee/gasakiri).
 
